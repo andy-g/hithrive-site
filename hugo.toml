@@ -105,7 +105,7 @@ qr_print = false
 [params.footer.contactInfo]
 title = "Contact Info"
 # address = "713 Elmwood St.<br>Prior Lake, MN 55372"
-phone = "+44 7475 672551"
+phone = "+44 0000 123123"
 email = "info@hithrive.uk"
 # Footer Sitemap
 [params.footer.sitemap]
