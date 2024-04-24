@@ -34,9 +34,9 @@ logo = "images/logo.svg"
 # logo_footer = "images/logo-footer.png"
 logo_footer = "images/logo.svg"
 nav_bar_dark = true
-favicon_icon = "images/favicon.ico"
-favicon_shortcut_icon = "images/favicon.png"
-custom_stylesheets = []                      # [ "scss/my_1.scss", "scss/my_2.scss" ]
+favicon_icon = "images/favicon.png"
+favicon_icon_dark = "images/favicon-dark.png"
+custom_stylesheets = []
 dateFormat = "26 FEB 1994"
 # Meta data
 description = "Roxo Hugo themes | Design Agency Template by StaticMania"
@@ -44,7 +44,7 @@ author = "StaticMania"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # We're using formspree.io for form handling, paste your formspree url below
-fabform = "https://fabform.io/f/USAg2Jl"
+fabform = "https://formspree.io/f/mbjnqqpd"
 
 # Contact Form
 [params.contactForm]
