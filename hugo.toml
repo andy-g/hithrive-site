@@ -30,10 +30,10 @@ weight = 5
 
 # Site Params
 [params]
-logo = "images/logo.svg"
+logo = "images/logo-pink.svg"
 # logo_footer = "images/logo-footer.png"
 logo_footer = "images/logo.svg"
-nav_bar_dark = true
+nav_bar_dark = false
 favicon_icon = "images/favicon.png"
 favicon_icon_dark = "images/favicon-dark.png"
 custom_stylesheets = []
@@ -73,7 +73,7 @@ url = "contact"
 [params.banner]
 enable = true
 hero_dark = true
-background_image = "images/backgrounds/hero-background.jpg"
+background_image = "images/backgrounds/erol-ahmed-aIYFR0vbADk-unsplash.jpg"
 heading = "We’re a Collective That Believes In Great Leaders"
 tagline = "COACHING & LEADERSHIP DEVELOPMENT"
 primary_button = "See Our Works"
@@ -144,4 +144,4 @@ url = "#"
 title = "We help teams:"
 description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
 [params.footer.back_to_top]
-description = "I want to <br> visit again"
+description = "Take me<br>back up"
