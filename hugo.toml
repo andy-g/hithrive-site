@@ -30,12 +30,18 @@ weight = 5
 
 # Site Params
 [params]
-logo = "images/logo-pink.svg"
+# logo = "images/logo-pink.svg"
+# logo = "images/logo-crown-no-text.svg"
+# logo = "images/logo-crown.svg"
+logo = "images/logo-crown-bold.svg"
+# logo = "images/logo-crown-yellow.svg"
+
 # logo_footer = "images/logo-footer.png"
 logo_footer = "images/logo.svg"
 nav_bar_dark = false
 favicon_icon = "images/favicon.png"
 favicon_icon_dark = "images/favicon-dark.png"
+# favicon_svg = "images/favicon.svg"
 custom_stylesheets = []
 dateFormat = "26 FEB 1994"
 # Meta data
@@ -73,9 +79,15 @@ url = "contact"
 [params.banner]
 enable = true
 hero_dark = true
-background_image = "images/backgrounds/erol-ahmed-aIYFR0vbADk-unsplash.jpg"
+background_image = "images/backgrounds/nipun-haldar-JfBVu2c8ejk-unsplash.jpg"
+# background_image = "images/backgrounds/hero-background.jpg"
+# background_image = "images/backgrounds/tim-chow-9IcKPSQ9G5Q-unsplash.jpg"
+# background_image = "images/backgrounds/scott-webb-GQD3Av_9A88-unsplash.jpg"
+# background_image = "images/backgrounds/erol-ahmed-aIYFR0vbADk-unsplash.jpg"
+# background_image = "images/backgrounds/kendal-hnysCJrPpkc-unsplash.jpg"
+# background_image = "images/backgrounds/etienne-girardet-Xh6BpT-1tXo-unsplash.jpg"
 heading = "We’re a Collective That Believes In Great Leaders"
-tagline = "COACHING & LEADERSHIP DEVELOPMENT"
+tagline = "Inspiring leadership for impactful change"
 primary_button = "See Our Works"
 primary_button_url = "portfolio"
 secondary_button = "Connect with Us"
