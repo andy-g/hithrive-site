@@ -1,14 +1,20 @@
 ---
-title: "KIO TAPE"
-date: 2019-12-23T15:44:46+06:00
-type: portfolio
-image: "images/projects/project-thumb-four.jpg"
-category: ["PRODUCT LABEL"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+title: "Coaching"
+date: 2020-12-23T15:56:43+06:00
+type: services
+# image: "images/projects/strenghts_resampled_top_aligned.png"
+image: "images/services/individual-coaching.png"
+
+# image: "images/projects/project-thumb-two.jpg"
+category: ["Personal Development"]
+project_images:
+  [
+    "images/projects/project-details-image-one.jpg",
+    "images/projects/project-details-image-two.jpg",
+  ]
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-
 
 The watch has the following features:
 
@@ -20,8 +26,7 @@ Alarm. A daily alarm may be set for a given time. The alarm may be enabled or di
 
 Timer. Timer mode shows a count-up timer that starts at 00:00. When the timer is started, it counts up. Pressing the start/stop button will pause the timer, pressing it again continues counting up. Pressing and holding the button for 3 seconds resets the timer to 00:00 and stops counting.
 
-Mystery answer. After entering this mode, the screen initially displays “ask now”. The user may ask a yes-or-no question aloud and press the start/stop button, this will display a randomly selected answer that is one of the following: “yeah”, “yeah right”, “no”, “no doubt”, “keep trying”, “keep dreaming”. Whenever the display has more than one word, only one word is displayed for 2 seconds, then the other word is displayed for 2 seconds, alternately. The answer is displayed until the user leaves this mode, or he/she presses start/stop again for a new answer. 
-
+Mystery answer. After entering this mode, the screen initially displays “ask now”. The user may ask a yes-or-no question aloud and press the start/stop button, this will display a randomly selected answer that is one of the following: “yeah”, “yeah right”, “no”, “no doubt”, “keep trying”, “keep dreaming”. Whenever the display has more than one word, only one word is displayed for 2 seconds, then the other word is displayed for 2 seconds, alternately. The answer is displayed until the user leaves this mode, or he/she presses start/stop again for a new answer.
 
 Note: these strings are for the English version of the watch, we will need to use completely different strings in other countries without reprogramming the logic of the watch.
 
